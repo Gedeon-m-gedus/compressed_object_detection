@@ -17,4 +17,4 @@ We have collected our dataset from East African parks, it contains 1309 instance
 ![alt text](images/AP50.png)
 
 #### Sample predictions from the compressed model
-
+![alt text](images/sample_pred.png)

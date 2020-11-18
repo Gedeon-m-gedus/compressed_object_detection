@@ -14,4 +14,4 @@ Our implementation is built on top of [Detectron2](https://detectron2.readthedoc
 We have collected our dataset from East African parks, it contains 1309 instances. The following dictionary describes the categories of animals that we are aware of and their number of instances into the dataset. Keys represent the animal category while the value represent the number of instances per that category {’giraffe’: 101, ’person’: 152, ’zebra’: 131, ’elephant’: 166, ’impala’: 169, ’monkey’: 80, ’lion’: 108, ’leopard’: 63, ’crocodile’: 61, ’buffalo’: 97, ’hyena’: 70, ’bird’: 123, ’gorilla’: 88}.
 
 #### Results
-![alt text](images/AP_50.png)
+![alt text](images/AP50.png)

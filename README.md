@@ -18,4 +18,5 @@ We have collected our dataset from East African parks, it contains 1309 instance
 
 #### Sample predictions from the compressed model
 ![alt text](images/sample_pred.png)
+
 Pruning and quantization techniques can efficiently compress object recognition models with little loss in performance. We can prune 40% of the model with loss of a few points in average precision. The reduction in memory allows for efficient storage and enables deployment of object detectors on devices of lower computational capacity.

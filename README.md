@@ -11,7 +11,7 @@ Here is the [paper](https://gedeonmuhawenayo.github.io/files/projects/compressio
 Our implementation is built on top of [Detectron2](https://detectron2.readthedocs.io/) and [Pytorch Prunning labrary](https://pytorch.org/tutorials/intermediate/pruning_tutorial.html).
 
 #### Dataset
-We have collected our dataset from East African parks, it contains 1309 instances. Download the data [here](https://drive.google.com/file/d/141iHvqb_rD_WwtIhespCSA9maHzQCbb2/view?usp=sharing) The following dictionary describes the categories of animals that we are aware of and their number of instances into the dataset. Keys represent the animal category while the value represent the number of instances per that category {’giraffe’: 101, ’person’: 152, ’zebra’: 131, ’elephant’: 166, ’impala’: 169, ’monkey’: 80, ’lion’: 108, ’leopard’: 63, ’crocodile’: 61, ’buffalo’: 97, ’hyena’: 70, ’bird’: 123, ’gorilla’: 88}.
+We have collected our dataset from East African parks, it contains 1309 instances. Download the data [here](https://drive.google.com/file/d/141iHvqb_rD_WwtIhespCSA9maHzQCbb2/view?usp=sharing). The following dictionary describes the categories of animals that we are aware of and their number of instances into the dataset. Keys represent the animal category while the value represent the number of instances per that category {’giraffe’: 101, ’person’: 152, ’zebra’: 131, ’elephant’: 166, ’impala’: 169, ’monkey’: 80, ’lion’: 108, ’leopard’: 63, ’crocodile’: 61, ’buffalo’: 97, ’hyena’: 70, ’bird’: 123, ’gorilla’: 88}.
 
 #### Results
 ![alt text](images/AP50.png)

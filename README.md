@@ -1,4 +1,6 @@
 # Compressed Object Detection (COD)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 Authors: [Gedeon Muhawenayo](https://gedeonmuhawenayo.github.io/) and [Georgia Gkioxari](https://gkioxari.github.io/)
 
